@@ -5,9 +5,17 @@
 
 
 🎓 Computer Science undergraduate passionate about creating user-centric web experiences.
+
+
 🎨 Completed a **UI/UX internship at DigiMoksha Solutions**, contributing to interface design and usability enhancements.
+
+
 💼 Working as a **freelance web developer** on a real-world project for **@bojogames**.
+
+
 🔧 Focused on delivering responsive, visually clean, and functional websites.
+
+
 📈 Constantly improving through client work and practical implementation.
 
 
