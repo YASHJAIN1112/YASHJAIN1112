@@ -1,7 +1,9 @@
 
-                                                                   Hi 👋, I'm Yash Jain
-                              Building impactful software | Exploring AI & Generative Systems | Turning ideas into scalable solutions
+                                                                  Hi 👋, I'm Yash Jain
+                                Building impactful software | Exploring AI & Generative Systems | Turning ideas into scalable solutions
 🚀 About Me
+
+
 🎓 Computer Science undergraduate passionate about creating user-centric web experiences.
 🎨 Completed a **UI/UX internship at DigiMoksha Solutions**, contributing to interface design and usability enhancements.
 💼 Working as a **freelance web developer** on a real-world project for **@bojogames**.
@@ -27,5 +29,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YASHJAIN1112&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
