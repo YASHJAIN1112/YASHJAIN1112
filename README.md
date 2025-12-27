@@ -34,6 +34,12 @@ Machine Learning model developed in Python to classify 10 different types of pla
 Multilingual AI-powered advisory platform with chatbot support, providing soil insights, weather alerts, pest detection via images, and market price tracking.  
 **Tech:** RAG, FastAPI, React, Python, API Integrations
 
+---
+
+🔹 UI/UX Design Internship Project – Waste Segregation System
+Mobile-first UI/UX design project focused on improving usability and user flow for a waste segregation application during internship at Digimoksha Solutions.
+Tech: Figma, UI/UX Design, User Research, Prototyping
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YASHJAIN1112&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YASHJAIN1112&theme=github_dark&hide_border=false)<br/>
