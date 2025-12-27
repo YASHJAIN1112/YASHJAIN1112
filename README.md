@@ -1,7 +1,8 @@
- #                                                               Hi 👋, I'm Yash Jain
+ #                                                              <h1 align="center"> Hi 👋, I'm Yash Jain
  ###                             Building impactful software | Exploring AI & Generative Systems | Turning ideas into scalable solutions
                               
-  ##🚀 About Me
+  ## 🚀 About Me
+  
   -🎓 Computer Science undergraduate passionate about creating user-centric web experiences.<br>
   -🎨 Completed a **UI/UX internship at DigiMoksha Solutions**, contributing to interface design and usability enhancements.  <br>
   -💼 Working as a **freelance web developer** on a real-world project for **@bojogames**.  <br>
